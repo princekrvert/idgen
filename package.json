@@ -1,0 +1,31 @@
+{
+  "name": "idgen",
+  "version": "1.0.0",
+  "description": "A fake id generator for indians.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/princekrvert/idgen.git"
+  },
+  "keywords": [
+    "termux",
+    "princekrvert",
+    "termux-tool",
+    "fakeid",
+    "kali",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Prince Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/princekrvert/idgen/issues"
+  },
+  "homepage": "https://github.com/princekrvert/idgen#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
